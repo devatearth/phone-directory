@@ -3,7 +3,6 @@ import ReactDOM from "react-dom";
 import "./index.css";
 import PhoneDirectory from "./PhoneDirectory";
 import reportWebVitals from "./reportWebVitals";
-import AddSusbscriber from './AddSubscriber';
 import './common/common.css';
 ReactDOM.render(
   <React.StrictMode>
