@@ -29,6 +29,8 @@
   text-transform: uppercase;
 }
 .delete-btn {
+  width: 90px;
+  padding: 5px;
   background: #fa9c9c;
   color: #000;
 }
